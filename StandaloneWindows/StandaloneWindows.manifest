@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 540247665
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene_city
+      Dependencies: {}
+    Info_1:
+      Name: model_role
+      Dependencies: {}
+    Info_2:
+      Name: scene_battle
+      Dependencies: {}
+    Info_3:
+      Name: ui_loading
+      Dependencies: {}
+    Info_4:
+      Name: ui_login
+      Dependencies: {}
+    Info_5:
+      Name: scene_login
+      Dependencies: {}
+    Info_6:
+      Name: scene_empty
+      Dependencies: {}
+    Info_7:
+      Name: ui_main
+      Dependencies: {}
